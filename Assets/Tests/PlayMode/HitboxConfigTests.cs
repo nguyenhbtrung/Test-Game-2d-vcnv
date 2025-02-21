@@ -10,15 +10,12 @@ public class HitboxConfigTests
 {
     private const float allowedOffset = 0.04f;
 
-
     [UnitySetUp]
     public IEnumerator SetUp()
     {
         SceneManager.LoadScene(SceneTestSettings.SceneIndex);
         yield return null;
     }
-
-
 
     [UnityTest]
     public IEnumerator TestTrapsHitboxComponent()
@@ -28,8 +25,8 @@ public class HitboxConfigTests
         List<string> issues = new List<string>();
         TestLogger.ClearLog(logFileName);
 
-        GameObject trapsParent = GameObject.Find("bayax");
-        Assert.IsNotNull(trapsParent, "Không tìm thấy GameObject 'bayax' trong scene.");
+        GameObject trapsParent = GameObject.Find("Traps");
+        Assert.IsNotNull(trapsParent, "Không tìm thấy GameObject 'Traps' trong scene.");
 
         foreach (Transform child in trapsParent.transform)
         {
@@ -228,8 +225,8 @@ public class HitboxConfigTests
         TestLogger.ClearLog(logFileName);
 
 
-        GameObject trapsParent = GameObject.Find("bayax");
-        Assert.IsNotNull(trapsParent, "Không tìm thấy GameObject 'bayax' trong scene.");
+        GameObject trapsParent = GameObject.Find("Traps");
+        Assert.IsNotNull(trapsParent, "Không tìm thấy GameObject 'Traps' trong scene.");
 
         List<string> trapsWithIssues = new List<string>(); // Danh sách lưu các trap có vấn đề
 

@@ -1,1 +1,2 @@
-Player hitbox hợp lệ.
+Phát hiện lỗi Player hitbox
+Player có kích thước HitBox không hợp lệ.

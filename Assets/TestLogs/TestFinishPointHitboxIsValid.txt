@@ -1,1 +1,3 @@
-End (Pressed) (64x64)_0 hitbox hợp lệ.
+Phát hiện lỗi End (Pressed) (64x64)_0 hitbox
+End (Pressed) (64x64)_0 có kích thước HitBox không hợp lệ.
+End (Pressed) (64x64)_0 có offset HitBox không hợp lệ.

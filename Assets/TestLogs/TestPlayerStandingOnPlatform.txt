@@ -1,3 +1,23 @@
 TestPlayerStandingOnPlatform fail :
-Player tại vị trí (3.35, 0.39) không đứng trên nền tảng.
-Player tại vị trí (4.09, -0.56) không đứng trên nền tảng.
+Player tại vị trí (-1.73, -0.58) không đứng trên nền tảng.
+Player tại vị trí (-1.36, -0.09) không đứng trên nền tảng.
+Player tại vị trí (-0.80, -1.06) không đứng trên nền tảng.
+Player tại vị trí (-0.48, -0.72) không đứng trên nền tảng.
+Player tại vị trí (0.88, -1.05) không đứng trên nền tảng.
+Player tại vị trí (1.48, -0.75) không đứng trên nền tảng.
+Player tại vị trí (1.88, -0.26) không đứng trên nền tảng.
+Player tại vị trí (2.21, 0.22) không đứng trên nền tảng.
+Player tại vị trí (2.87, 0.87) không đứng trên nền tảng.
+Player tại vị trí (3.27, 0.25) không đứng trên nền tảng.
+Player tại vị trí (3.65, -0.40) không đứng trên nền tảng.
+Player tại vị trí (4.08, -0.13) không đứng trên nền tảng.
+Player tại vị trí (4.24, -0.70) không đứng trên nền tảng.
+Player tại vị trí (4.82, -0.91) không đứng trên nền tảng.
+Player tại vị trí (5.83, -0.57) không đứng trên nền tảng.
+Player tại vị trí (6.86, -0.87) không đứng trên nền tảng.
+Player tại vị trí (7.50, -0.21) không đứng trên nền tảng.
+Player tại vị trí (8.21, 0.05) không đứng trên nền tảng.
+Player tại vị trí (8.66, -0.89) không đứng trên nền tảng.
+Player tại vị trí (9.66, 0.88) không đứng trên nền tảng.
+Player tại vị trí (10.58, -0.72) không đứng trên nền tảng.
+Player tại vị trí (11.21, -0.40) không đứng trên nền tảng.
