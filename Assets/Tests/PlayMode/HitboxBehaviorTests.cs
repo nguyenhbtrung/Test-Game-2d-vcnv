@@ -139,7 +139,7 @@ public class HitboxBehaviorTests : InputTestFixture
             bool isStandingOnPlatform = hitCollider != null 
                 && Mathf.Abs(player.transform.position.y - pos.y) < 0.15f 
                 && rb.velocity == Vector2.zero;
-            if (!isStandingOnPlatform) issues.Add($"Player tại vị trí {pos} không đứng trên nền tảng.");
+            if (!isStandingOnPlatform) issues.Add($"Player tại vị trí {pos} không đứng trên platform.");
 
             yield return null;
         }
