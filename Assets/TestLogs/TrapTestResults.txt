@@ -1,0 +1,19 @@
+Phát hiện các chướng ngại vật không hợp lệ:
+Chướng ngại vật 'On (38x38)_0' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 1.00).
+Chướng ngại vật 'On (38x38)_0 (2)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 0.75, heightRatio = 0.79). Tỉ lệ offset không hợp lệ (offsetRatioX = 0.04, offsetRatioY = 0.11).
+Chướng ngại vật 'On (38x38)_0 (5)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 0.75, heightRatio = 0.79). Tỉ lệ offset không hợp lệ (offsetRatioX = 0.04, offsetRatioY = 0.11).
+Chướng ngại vật 'On (38x38)_0 (6)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 0.75, heightRatio = 0.79). Tỉ lệ offset không hợp lệ (offsetRatioX = 0.04, offsetRatioY = 0.11).
+Chướng ngại vật 'On (38x38)_0 (3)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 1.00).
+Chướng ngại vật 'On (38x38)_0 (7)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 0.80, heightRatio = 0.69).
+Chướng ngại vật 'On (38x38)_0 (8)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 0.80, heightRatio = 0.69).
+Chướng ngại vật 'On (38x38)_0 (4)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 48.91, heightRatio = 0.69). Tỉ lệ offset không hợp lệ (offsetRatioX = 23.47, offsetRatioY = 0.03).
+Chướng ngại vật 'Idle (3)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 0.56). Tỉ lệ offset không hợp lệ (offsetRatioX = 0.00, offsetRatioY = -0.22).
+Chướng ngại vật 'Idle (4)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 0.51). Tỉ lệ offset không hợp lệ (offsetRatioX = 0.00, offsetRatioY = -0.24).
+Chướng ngại vật 'Idle (5)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 0.54). Tỉ lệ offset không hợp lệ (offsetRatioX = 0.00, offsetRatioY = -0.23).
+Chướng ngại vật 'Idle (6)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 0.49). Tỉ lệ offset không hợp lệ (offsetRatioX = 0.00, offsetRatioY = -0.25).
+Chướng ngại vật 'Idle (7)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 0.58). Tỉ lệ offset không hợp lệ (offsetRatioX = 0.00, offsetRatioY = -0.21).
+Chướng ngại vật 'Idle (8)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 0.58). Tỉ lệ offset không hợp lệ (offsetRatioX = 0.00, offsetRatioY = -0.21).
+Chướng ngại vật 'Idle (2)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 0.58). Tỉ lệ offset không hợp lệ (offsetRatioX = 0.00, offsetRatioY = -0.21).
+Chướng ngại vật 'Blink (54x52)_0 (2)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 1.00).
+Chướng ngại vật 'Blink (54x52)_0 (1)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 1.00).
+Chướng ngại vật 'Blink (54x52)_0 (3)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 1.00).

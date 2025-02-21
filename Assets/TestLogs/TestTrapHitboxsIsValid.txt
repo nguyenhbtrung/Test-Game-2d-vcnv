@@ -1,0 +1,19 @@
+Phát hiện các chướng ngại vật không hợp lệ:
+Trap 'On (38x38)_0' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 1.00).
+Trap 'On (38x38)_0 (2)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 0.75, heightRatio = 0.79). Tỉ lệ offset không hợp lệ (offsetRatioX = 0.04, offsetRatioY = 0.11).
+Trap 'On (38x38)_0 (5)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 0.75, heightRatio = 0.79). Tỉ lệ offset không hợp lệ (offsetRatioX = 0.04, offsetRatioY = 0.11).
+Trap 'On (38x38)_0 (6)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 0.75, heightRatio = 0.79). Tỉ lệ offset không hợp lệ (offsetRatioX = 0.04, offsetRatioY = 0.11).
+Trap 'On (38x38)_0 (3)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 1.00).
+Trap 'On (38x38)_0 (7)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 0.80, heightRatio = 0.69).
+Trap 'On (38x38)_0 (8)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 0.80, heightRatio = 0.69).
+Trap 'On (38x38)_0 (4)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 48.91, heightRatio = 0.69). Tỉ lệ offset không hợp lệ (offsetRatioX = 23.47, offsetRatioY = 0.03).
+Trap 'Idle (3)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 0.56). Tỉ lệ offset không hợp lệ (offsetRatioX = 0.00, offsetRatioY = -0.22).
+Trap 'Idle (4)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 0.51). Tỉ lệ offset không hợp lệ (offsetRatioX = 0.00, offsetRatioY = -0.24).
+Trap 'Idle (5)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 0.54). Tỉ lệ offset không hợp lệ (offsetRatioX = 0.00, offsetRatioY = -0.23).
+Trap 'Idle (6)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 0.49). Tỉ lệ offset không hợp lệ (offsetRatioX = 0.00, offsetRatioY = -0.25).
+Trap 'Idle (7)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 0.58). Tỉ lệ offset không hợp lệ (offsetRatioX = 0.00, offsetRatioY = -0.21).
+Trap 'Idle (8)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 0.58). Tỉ lệ offset không hợp lệ (offsetRatioX = 0.00, offsetRatioY = -0.21).
+Trap 'Idle (2)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 0.58). Tỉ lệ offset không hợp lệ (offsetRatioX = 0.00, offsetRatioY = -0.21).
+Trap 'Blink (54x52)_0 (2)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 1.00).
+Trap 'Blink (54x52)_0 (1)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 1.00).
+Trap 'Blink (54x52)_0 (3)' có vấn đề: Tỉ lệ kích thước không hợp lệ (widthRatio = 1.00, heightRatio = 1.00).
